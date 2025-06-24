@@ -2,6 +2,10 @@
 
 Aplikasi ini menggunakan **navigasi bottom bar** untuk berpindah antar halaman utama. Navigasi dilakukan menggunakan kombinasi `BottomNavigationBar`, `Navigator.pushNamed`, dan deklarasi `routes` di `main.dart`.
 
+###
+
+jika aplikasi muncul terjadi kesalahan, coba berulang kali dengan reload. karna penyebab utamanya adalah menggunakan API public yang server kadang kadang down.
+
 ### ✅ Struktur Navigasi:
 
 | Tab         | Fungsi                              | Navigasi ke                    |
